@@ -6,5 +6,9 @@ public class class1 {
     double x1 =1.8;
     double y1;
 
+    String s1="Radwa";
+    String s2="Ali";
+    String s3="Abdallah";
+
 
 }
